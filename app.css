@@ -18,7 +18,7 @@ li {
     display: inline;
     padding: 10px;
     margin: 20px;
-    font-family: gotham, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-size: small;
     font-weight: bold;
@@ -52,7 +52,7 @@ h2 {
 
 button{
 background-color:#F8EFD3;
-font-family: gotham, sans-serif;
+font-family: roc-grotesk-wide, sans-serif;
 text-transform: uppercase;
 font-size: medium;
 font-weight: 700;
@@ -276,7 +276,7 @@ footer {
 
 /* Hover image */
 span {
-    font-family: gotham, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color: #231F20;
