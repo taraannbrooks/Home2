@@ -276,7 +276,7 @@ footer {
 
 /* Hover image */
 span {
-    cfont-family: roc-grotesk-wide, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color: #231F20;
