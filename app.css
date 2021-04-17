@@ -276,7 +276,7 @@ footer {
 
 /* Hover image */
 span {
-    cfont-family: roc-grotesk-wide, sans-serif;
+    font-family: roc-grotesk-wide, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color: #231F20;
@@ -590,9 +590,9 @@ a {
 .no-js .cd-words-wrapper b {
   opacity: 0;
 }
-.no-js .cd-words-wrapper b.is-visible {
-}
-
+/* .no-js .cd-words-wrapper b.is-visible { */
+/* } */
+/*  */
 /* -------------------------------- 
 
 xpush 
